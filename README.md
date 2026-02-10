@@ -88,7 +88,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Spaghetto784/Spaghetto784/output/snake.svg" alt="Snake animation" />
+<h5 align="left">Profile views</h5>
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Spaghetto784?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ###
 
