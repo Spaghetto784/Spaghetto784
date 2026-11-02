@@ -14,7 +14,7 @@ Looking for a 4 to 5 month US security internship starting January 2028.
 ## Selected work
 
 - [CISO Assistant](https://github.com/intuitem/ciso-assistant-community): open-source GRC platform, merged contributions
-- [wlkom-rootkit](https://github.com/spaghetto1234/wlkom-rootkit): educational Linux kernel rootkit (EPITA SYS2)
+- [wlkom-rootkit](https://github.com/Spaghetto784/wlkom-rootkit): educational Linux kernel rootkit (EPITA SYS2)
 - [SecureFlow](https://github.com/Spaghetto784/SecureFlow): DevSecOps pipeline with SAST, secret and image scanning
 - [Budgify](https://github.com/Spaghetto784/Budgify): iOS budgeting app with on-device encryption
 
