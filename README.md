@@ -3,7 +3,7 @@
 EPITA security engineering student (class of 2028), Paris.
 DevSecOps apprentice at [intuitem](https://github.com/intuitem) on [CISO Assistant](https://github.com/intuitem/ciso-assistant-community).
 Researcher at the EPITA Research Lab (malware analysis; repository private).
-Looking for a US security internship in 2028.
+Looking for a 4 to 5 month US security internship starting January 2028.
 
 ## Focus
 
